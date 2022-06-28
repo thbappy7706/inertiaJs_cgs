@@ -30,11 +30,11 @@
         name: "AuthLayout",
         metaInfo() {
             return {
-                title: 'Laravel TVI',
+                title: 'Laravel CGS',
                 meta: [
                     {
                         name: 'description',
-                        content: 'Laravel TVI',
+                        content: 'Laravel CGS',
                     }
                 ]
             }
